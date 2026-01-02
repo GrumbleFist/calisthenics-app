@@ -45,7 +45,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/calisthenics-app">
       <div className="min-h-screen bg-background">
         <Routes>
           <Route path="/" element={<Home />} />
