@@ -1,0 +1,1088 @@
+[
+  {
+    "name": "Hoola hoop",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Front/back/side neck rolls",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Hands on head stretch (front/back)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Ear to Shoulder",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Chin to chest (+ rotation)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Opposite ear to shoulder rotations",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Sides + opposite palm up",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Picture Pose (+ wall + arms forward)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "active": true
+  },
+  {
+    "name": "Shoulder rotations (front, back, flap)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "I, Y, T, W arms back (horizontal)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Door frame I, Y, T, W",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders",
+      "Biceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Tricep over head + side bend",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Tricep (arm down back)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Deltoid arm across body",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Deltoid hands linked at front (+ lean + twists)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Posterior deltoid (arm across chest)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Pectoid + dipping bird",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders",
+      "Chest"
+    ],
+    "active": true
+  },
+  {
+    "name": "Rotator cuff - Eagle hands (+ lift)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Rotator cuff - Chicken wing",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Rotator cuff - Snake wrist",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Dislocation bands",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Wall shoulder stretch",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Tricep wall stretch",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Rollouts",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Downward dog",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Anterior shoulder to straight bridge",
+    "position": "Standing",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Side bends (+ half lotus + straddle)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Lats"
+    ],
+    "active": true
+  },
+  {
+    "name": "Waves front + side",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Beach ball twists",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing bend/fold",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing upper back bend",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing lower back bends",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Stand to bridge",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing straddle fold",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back",
+      "Hips",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Touch each foot opposite hand",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Hand through middle",
+    "position": "Standing",
+    "muscleGroups": [
+      "Back",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing leg raise",
+    "position": "Standing",
+    "muscleGroups": [
+      "Hips",
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "Pile/Deep Pile",
+    "position": "Standing",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "active": true
+  },
+  {
+    "name": "Side lunge",
+    "position": "Standing",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing Figure 4 (+ forward fold)",
+    "position": "Standing",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "active": true
+  },
+  {
+    "name": "Quad heel to bum",
+    "position": "Standing",
+    "muscleGroups": [
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing pike",
+    "position": "Standing",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Palms under feet",
+    "position": "Standing",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Standing hamstring stretch",
+    "position": "Standing",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Sit-on-stool toe touches",
+    "position": "Standing",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Ankle stretch",
+    "position": "Standing",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "active": true
+  },
+  {
+    "name": "Toes under",
+    "position": "Standing",
+    "muscleGroups": [
+      "Ankles",
+      "Feet"
+    ],
+    "active": true
+  },
+  {
+    "name": "Knee to wall",
+    "position": "Standing",
+    "muscleGroups": [
+      "Ankles",
+      "Calves"
+    ],
+    "active": true
+  },
+  {
+    "name": "Ankle rotation",
+    "position": "Standing",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "active": true
+  },
+  {
+    "name": "Ankle side bends",
+    "position": "Standing",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "active": true
+  },
+  {
+    "name": "Slug (+ arms forward + shark fin)",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Neck",
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Chair shoulder stretch",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling shoulder stretch against wall",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Shoulders",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Raise feet wall slug arms out",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling hollow",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling rounded",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cat/Cows",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling upper back bend",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lunge (straight, knee down, toe flat)",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lunge + back bend",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lunge + foot to head",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors",
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lunge + front leg over shoulder",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors",
+      "Hips"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lunge + grab opposite foot",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors",
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lunge + back foot on wall/chair",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling arabesque",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling front foot on wall + back bend",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hip Flexors",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling quad (+ hip extension)",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling quad knee over upper arm",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling quad toes to ribs twist",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling quad foot to head",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Quadriceps",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Camel pose",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Quadriceps",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Kneeling ham stretch",
+    "position": "Kneeling",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Figure of 4",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lying Figure 4 (+ bend knee + arm thread)",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "active": true
+  },
+  {
+    "name": "Straight bridge + Table",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back",
+      "Glutes"
+    ],
+    "active": true
+  },
+  {
+    "name": "Yoga bridge (+ hands on hips/ribs)",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Full bridge (+ straight legs/arms/one leg)",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back",
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Bridge circles",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Bridge to stand",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lying upper back roller stretch",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Feet over head knees on floor",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back",
+      "Spine"
+    ],
+    "active": true
+  },
+  {
+    "name": "Both knees to each ear",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back",
+      "Spine"
+    ],
+    "active": true
+  },
+  {
+    "name": "Happy baby",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Hips",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Crucifix bent knee",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back",
+      "Spine"
+    ],
+    "active": true
+  },
+  {
+    "name": "Crucifix straight leg",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back",
+      "Spine",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lying spinal rotation crucifix",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Back",
+      "Spine"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lying make diamond with feet",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lying pike into splits",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Hamstrings",
+      "Hips"
+    ],
+    "active": true
+  },
+  {
+    "name": "Lying on chair knee pull to chest",
+    "position": "Lying Back",
+    "muscleGroups": [
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "I, Y, T, W arms back (prone)",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Dipping Bird (+ palms together)",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Shoulders",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Slug, shark fin",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back",
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Boat pose",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra + toes under",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back",
+      "Feet"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra + feet together",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra + twist",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back",
+      "Spine"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra + heel to ham",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back",
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra + toes to head",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra + opposite leg grab",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back",
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Cobra + shins on wall",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Wall lower prone back bends",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Wall inverted L back bend",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back",
+      "Shoulders"
+    ],
+    "active": true
+  },
+  {
+    "name": "Wall inverted S",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Frog",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "active": true
+  },
+  {
+    "name": "Diamond split",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "active": true
+  },
+  {
+    "name": "Trapped pigeon",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Glutes"
+    ],
+    "active": true
+  },
+  {
+    "name": "Pigeon (+ toes under + back bend)",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Glutes"
+    ],
+    "active": true
+  },
+  {
+    "name": "Pigeon + forward fold",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Glutes"
+    ],
+    "active": true
+  },
+  {
+    "name": "Pigeon + arm thread L+R",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Glutes",
+      "Back"
+    ],
+    "active": true
+  },
+  {
+    "name": "Pigeon + grab back leg",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Glutes",
+      "Quadriceps"
+    ],
+    "active": true
+  },
+  {
+    "name": "Scorpion",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Back",
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "Forward split",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Hips",
+      "Hamstrings",
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "Splits quad stretch (+ toes to ribs)",
+    "position": "Lying Front",
+    "muscleGroups": [
+      "Quadriceps",
+      "Hip Flexors"
+    ],
+    "active": true
+  },
+  {
+    "name": "Seated twists",
+    "position": "Seated",
+    "muscleGroups": [
+      "Back",
+      "Spine"
+    ],
+    "active": true
+  },
+  {
+    "name": "Seated spinal rotation knee over leg",
+    "position": "Seated",
+    "muscleGroups": [
+      "Back",
+      "Spine"
+    ],
+    "active": true
+  },
+  {
+    "name": "Straddle rotation",
+    "position": "Seated",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "active": true
+  },
+  {
+    "name": "Hip rotations",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hips"
+    ],
+    "active": true
+  },
+  {
+    "name": "Half lotus fold + lean",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hips"
+    ],
+    "active": true
+  },
+  {
+    "name": "Full lotus fold, sweep, rotation",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hips"
+    ],
+    "active": true
+  },
+  {
+    "name": "Straddle (+ touch toes + chest to floor)",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hips",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Straddle Japan fold, sweep, rotations",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hips",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Jazz split (fold, bend, lean, twist)",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hips",
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Nordic curl",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Seated pike",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Seated pike fists under ankles",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Seated pike pull toes",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "active": true
+  },
+  {
+    "name": "Seated pike half lotus",
+    "position": "Seated",
+    "muscleGroups": [
+      "Hamstrings",
+      "Hips"
+    ],
+    "active": true
+  }
+]

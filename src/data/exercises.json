@@ -1,0 +1,992 @@
+[
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Novice",
+    "name": "Squat",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Beginner",
+    "name": "Weighted Step Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Intermediate",
+    "name": "Low Weight Squat",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Advanced",
+    "name": "High Weight Squat",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Expert",
+    "name": "Pistol Squat",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Master",
+    "name": "V High Weight Squat",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Lunge",
+    "difficulty": "Novice",
+    "name": "Reverse Lunge",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Lunge",
+    "difficulty": "Beginner",
+    "name": "Reverse Deficit",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Lunge",
+    "difficulty": "Intermediate",
+    "name": "Low Weight Lunge",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Lunge",
+    "difficulty": "Advanced",
+    "name": "High Weighted Lunge",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Lunge",
+    "difficulty": "Expert",
+    "name": "Bulgarian Lunge",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Lunge",
+    "difficulty": "Master",
+    "name": "Hover Lunge (toes up)",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Novice",
+    "name": "Kneeling PushUp",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Beginner",
+    "name": "Full Push Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Intermediate",
+    "name": "Arrow Push UP",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Advanced",
+    "name": "Weighted Chest Flys",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Expert",
+    "name": "Archer Push Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Master",
+    "name": "Inclined Archer Push Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Dips",
+    "difficulty": "Novice",
+    "name": "Bench Dips",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Dips",
+    "difficulty": "Beginner",
+    "name": "Assisted Dips",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Dips",
+    "difficulty": "Intermediate",
+    "name": "Dips",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Dips",
+    "difficulty": "Advanced",
+    "name": "Ring Dips",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Dips",
+    "difficulty": "Expert",
+    "name": "Horizontal Bar",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Dips",
+    "difficulty": "Master",
+    "name": "Pike Ring Dips",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Inversion",
+    "difficulty": "Beginner",
+    "name": "Declined Push-Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Inversion",
+    "difficulty": "Intermediate",
+    "name": "V-Inversion",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Inversion",
+    "difficulty": "Advanced",
+    "name": "Pike Inversion",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Inversion",
+    "difficulty": "Expert",
+    "name": "Wall Assisted Inversion",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Inversion",
+    "difficulty": "Master",
+    "name": "Freestanding Inversion",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Hip Flexor",
+    "difficulty": "Novice",
+    "name": "Seated L-Sit Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Hip Flexor",
+    "difficulty": "Beginner",
+    "name": "Steated Straddle Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Hip Flexor",
+    "difficulty": "Intermediate",
+    "name": "Straight to Tuck",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Hip Flexor",
+    "difficulty": "Advanced",
+    "name": "Tuck to Straddle",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Hip Flexor",
+    "difficulty": "Expert",
+    "name": "Tuck to L-Sit",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Hip Flexor",
+    "difficulty": "Master",
+    "name": "Tuck to V-Sit",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Sit Ups",
+    "difficulty": "Novice",
+    "name": "Full Sit UPs",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Sit Ups",
+    "difficulty": "Beginner",
+    "name": "Near straight leg raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Sit Ups",
+    "difficulty": "Intermediate",
+    "name": "V-Ups",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Sit Ups",
+    "difficulty": "Advanced",
+    "name": "Rollout Sliders/Rings",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Sit Ups",
+    "difficulty": "Expert",
+    "name": "Hanging V-Ups",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Sit Ups",
+    "difficulty": "Master",
+    "name": "Dragon",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Twists",
+    "difficulty": "Novice",
+    "name": "Toe Taps",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Twists",
+    "difficulty": "Beginner",
+    "name": "Lying Crossovers",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Twists",
+    "difficulty": "Intermediate",
+    "name": "Russain Twists",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Twists",
+    "difficulty": "Advanced",
+    "name": "Slide Plank Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Abdominals & Obliques",
+    "exerciseClass": "Twists",
+    "difficulty": "Expert",
+    "name": "Lying Windscreen Wipers",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Calf",
+    "difficulty": "Novice",
+    "name": "Calf Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Calf",
+    "difficulty": "Beginner",
+    "name": "Single Calf Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Calf",
+    "difficulty": "Intermediate",
+    "name": "Low Weighted Calf Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Calf",
+    "difficulty": "Advanced",
+    "name": "Med Weighted Calf Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Calf",
+    "difficulty": "Expert",
+    "name": "High Weighted Calf Raises",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Hamstring",
+    "difficulty": "Novice",
+    "name": "Hip Thrust",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Hamstring",
+    "difficulty": "Beginner",
+    "name": "Nodic Ham Hinge",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Hamstring",
+    "difficulty": "Intermediate",
+    "name": "Double Slider",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Hamstring",
+    "difficulty": "Advanced",
+    "name": "Single Slider",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Hamstring",
+    "difficulty": "Expert",
+    "name": "Ham Glude Raise",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Hamstring",
+    "difficulty": "Master",
+    "name": "High Weight Leg Curl",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Novice",
+    "name": "Jack Knife Pull Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Beginner",
+    "name": "Assisted Pull Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Intermediate",
+    "name": "Weighted Hammer Curl",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Advanced",
+    "name": "Pull Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Expert",
+    "name": "Archer Pull Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Master",
+    "name": "One Arm Pull Up",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Novice",
+    "name": "Assisted Rows",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Beginner",
+    "name": "Face Pulls",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Intermediate",
+    "name": "Revers Fly Deltoids",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Advanced",
+    "name": "Straight Rows",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Expert",
+    "name": "Tucked Rows",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Master",
+    "name": "Lever Rows",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Lats",
+    "difficulty": "Novice",
+    "name": "Lateral Raises DB",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Lats",
+    "difficulty": "Beginner",
+    "name": "Lateral Pullover DB",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Lats",
+    "difficulty": "Intermediate",
+    "name": "Lateral Pulldown",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Lats",
+    "difficulty": "Advanced",
+    "name": "Tricep kickback DB",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Lats",
+    "difficulty": "Expert",
+    "name": "Skull Crusher DB",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Bridge",
+    "difficulty": "Novice",
+    "name": "Straight Bridge",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Bridge",
+    "difficulty": "Beginner",
+    "name": "Bench Reverse Hyperextension",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Bridge",
+    "difficulty": "Intermediate",
+    "name": "Headstand Reverse Hyperextension",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Bridge",
+    "difficulty": "Advanced",
+    "name": "Full Bridge",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Bridge",
+    "difficulty": "Expert",
+    "name": "Full Bridge Elevated Legs",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Glutes",
+    "difficulty": "Novice",
+    "name": "Weighted Hip Thrust",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Glutes",
+    "difficulty": "Beginner",
+    "name": "Fire Hydrant",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Glutes",
+    "difficulty": "Intermediate",
+    "name": "Low Weight Jefferson Curl",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Glutes",
+    "difficulty": "Advanced",
+    "name": "HGR",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": false,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Glutes",
+    "difficulty": "Expert",
+    "name": "Low Weight Deadlift",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Glutes & Lumbar",
+    "exerciseClass": "Glutes",
+    "difficulty": "Master",
+    "name": "High Weight Dead Lift",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Intermediate",
+    "name": "High-Bar Back Squat",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Quads",
+    "exerciseClass": "Squat",
+    "difficulty": "Intermediate",
+    "name": "Goblet Squat",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Intermediate",
+    "name": "Low Incline DB Press",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Intermediate",
+    "name": "DB Fly",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Intermediate",
+    "name": "Seated DB Shoulder Press",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Triceps & Pectorals",
+    "exerciseClass": "Push Up",
+    "difficulty": "Intermediate",
+    "name": "Decline Barbell Press",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Hamstrings & Calves",
+    "exerciseClass": "Calf",
+    "difficulty": "Intermediate",
+    "name": "Seated Calf Raise",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Intermediate",
+    "name": "DB Lateral Raise",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Intermediate",
+    "name": "Neutral-Grip Pullup",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Intermediate",
+    "name": "Helms Row",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Intermediate",
+    "name": "Single-Arm DB Row",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Intermediate",
+    "name": "Machine Pulldown",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Pull Up",
+    "difficulty": "Intermediate",
+    "name": "Hammer Curl",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  },
+  {
+    "muscleChain": "Biceps & Scapula",
+    "exerciseClass": "Rows",
+    "difficulty": "Intermediate",
+    "name": "Bent-Over Reverse DB Fly",
+    "targetReps": null,
+    "targetWeight": null,
+    "requiresWeight": true,
+    "active": true
+  }
+]
